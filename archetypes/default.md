@@ -6,5 +6,5 @@ draft: true
 featuredImage: ""
 categories: []
 tags: []
-author: ""
+author: "Jérycho"
 ---
