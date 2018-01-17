@@ -1,5 +1,5 @@
 title = "Ecritoire"
-baseURL = "https://example.com"
+baseURL = "http://ecritoire.s3-website-eu-west-1.amazonaws.com"
 theme = "custom"
 
 enableRobotsTXT = true
