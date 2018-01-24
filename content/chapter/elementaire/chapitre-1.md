@@ -86,4 +86,4 @@ Son frère la décrivait comme une âme de papillon dans un corps de scaphandrie
 
 *“- Contacte la journaliste, dis-lui que c’est ok pour ce soir ! A sa convenance.”*  
 
-{{< suite dst="chapter/elementaire/chapitre-2.md" lib="La suite" >}}
+{{< suite dst="/chapter/elementaire/chapitre-2/" lib="La suite" >}}
