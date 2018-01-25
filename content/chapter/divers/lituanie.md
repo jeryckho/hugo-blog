@@ -35,7 +35,6 @@ Incapable de refuser, je me contentais d'acquiescer. Aussitôt elle s’éloigna
 Je soufflais un peu quand on s’arrêta. Nina semblait connaître l’endroit, elle était à son aise ici manifestement. A peine étais-je installé qu’elle m’interrogea une nouvelle fois sur la façon dont je l’avais retrouvée. Je m’expliquais, elle me coupait régulièrement pour comprendre chaque détail. J’étais mal à l’aise, mais je répondais néanmoins. Une fois ses interrogations calmées, elle commanda pour nous deux, sans me consulter ni paraître gênée. Je profitais d’un peu de calme pour passer moi aussi à l’offensive. Je sentais déjà que son mystère m’échapperait, mais ça ne coûtait rien d’essayer. Commença un curieux ballet.
 
 “Vous êtes Photographe ? Je dis ça parce qu’il y avait des pellicules photos dans votre sac.
-
 - Et vous, vous êtes écrivain ? Il y avait une dizaine de romans dans le vôtre. Qui part en voyages pour lire des livres ?”
 
 Que répondre à ça ? Etais-je aussi mystérieux pour elle qu’elle l’était pour moi ? Plutôt improbable, mais...
