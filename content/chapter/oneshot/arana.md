@@ -4,8 +4,8 @@ date: 2014-10-25T13:21:00+01:00
 draft: false
 
 featuredImage: ""
-categories: ["récit"]
-tags: ["arana","WIP"]
+categories: ["récit","en cours"]
+tags: ["arana"]
 author: "Jérycho"
 ---
 {{< lien >}}pour Léa{{</ lien >}}
