@@ -1,0 +1,54 @@
+<footer>
+    <div class="container">
+        <div class="recent-posts">
+            <strong>{{ i18n "latestPosts" }}</strong>
+                <ul>
+                {{ range where (where (first 10 .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "page" }}
+                    <li>
+                        <a href="{{ .URL }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+                </ul>
+        </div>
+
+        <div class="categories">
+            <strong>{{ i18n "categories" }}</strong>
+
+            {{ with .Site.Taxonomies.categories }}
+                <ul>
+                {{ range $name, $taxonomy := . }}
+                    <li>
+                        <a href="/categories/{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a>
+                    </li>
+                {{ end }}
+                </ul>
+            {{ end }}
+        </div>
+
+        <div class="tags">
+            <strong>TAGS</strong>
+
+            {{ with .Site.Taxonomies.tags }}
+                <ul>
+                {{ range $name, $taxonomy := . }}
+                    <li>
+                        <a href="/tags/{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a>
+                    </li>
+                {{ end }}
+                </ul>
+            {{ end }}
+        </div>
+
+    </div>
+</footer>
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="." target="_blank">&copy; 2018 by Jérycho </a>
+        </div>
+        <div class="author">
+            <i class="fa fa-globe"></i> <a href="https://github.com/Lednerb/bilberry-hugo-theme" target="_blank">Bilberry Hugo Theme</a>
+        </div>
+    </div>
+</div>
