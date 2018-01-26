@@ -38,4 +38,4 @@ Mais le reste ne collait pas. La petite fille qui venait d’ouvrir devait avoir
 
 Le destin prend parfois des chemins bien tortueux. On pourrait avoir l’impression qu’il cherche à nous perdre…
 
-{{< suite dst="/chapter/nils/chapitre-9/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-9.md" />}}

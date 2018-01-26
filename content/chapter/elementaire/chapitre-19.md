@@ -50,4 +50,4 @@ Elle aurait tout le temps de lui expliquer les détails plus tard. D’ailleurs�
   
 *“Comment se fait-il que, même après ma mort, j’ai toujours un temps d’avance sur vous ?”* pouvait-on lire.
 
-{{< suite dst="/chapter/elementaire/chapitre-20/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-20.md" />}}

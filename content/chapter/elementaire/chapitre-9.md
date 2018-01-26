@@ -39,4 +39,4 @@ C’est une ruelle sombre. Le grand dôme de verre noirci laisse à peine passer
 
 Il reste immobile, essayant de structurer tout ce qu’il vient de vivre. Plusieurs idées l’assaillent. Il prend sa tablette, et vérifie les images du cinéma. Il n’a pas fait que rêver. Il y a bien des marques sur les murs, des trous, comme des attaches. Il en parlera aux autres. Mais avant, il se connecte à la bourse de Moscou. L’entreprise de Stepanov père… Il est dans le coma depuis une semaine, et l’indice boursier de son entreprise ne bronche même pas. Illogique ! Hanson, leur analyste financier, aurait peut-être une idée. Mais il reste encore quelque chose, à la périphérie de sa conscience. Il le sent sur le bout de ses doigts. Comme le poids d’un disque d’argile : la tablette de Phaistos. Les symboles ! Certains symboles de la fresque étaient directement tirés de la tablette Phaistos. Comment avait-il pu loupé ça ?! Il reprit sa recherche et ajouta ce nouveau critère. “Merci Papa”, lâcha-t-il quand il vit la liste de peintres se réduire à 8 noms.
 
-{{< suite dst="/chapter/elementaire/chapitre-10/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-10.md" />}}

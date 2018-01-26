@@ -55,4 +55,4 @@ Gérald ne se trompait pas sur ce point. Il allait le lui dire quand quelqu’un
 
 C’est dans les heures sombres qu’on se lance à la recherche de la Lumière. Et l’heure s’assombrissait encore.
 
-{{< suite dst="/chapter/nils/chapitre-14/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-14.md" />}}

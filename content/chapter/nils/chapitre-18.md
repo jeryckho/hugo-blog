@@ -54,4 +54,4 @@ La tension était palpable, et il craignait presque que l’autre en vienne aux 
 
 Essoufflé, le coeur qui bat la chamade. Ah si seulement c’était l’effort physique qui le laissait dans cet état là.
 
-{{< suite dst="/chapter/nils/chapitre-19/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-19.md" />}}

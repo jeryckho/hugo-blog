@@ -166,4 +166,4 @@ Sans la moindre forme de politesse, elle prit congé de Tippet. Bon sang, elle a
 
 Elle regarda la vidéo, les deux minutes trente pendant lesquelles on avait collé cet extra-terrestre sur son sac. Malheureusement, la caméra était orienté sur le côté du réfectoire et on ne voyait pas l’auteur des faits. Elle la repassa néanmoins, une fois, deux fois. À l’arrière plan, il y avait une silhouette dont la carrure ne lui était pas inconnue.
 
-{{< suite dst="/chapter/elementaire/chapitre-22/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-22.md" />}}

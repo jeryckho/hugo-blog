@@ -37,4 +37,4 @@ A son grand étonnement, ses parents ne firent pas la sourde oreille. Et même, 
 
 Quel heureux hasard que Julia et Andrea l’aient ainsi chaperonné. Encore que… Nils se demandait s’il fallait être rusé pour donner l’impression d’être rusé…
 
-{{< suite dst="/chapter/nils/chapitre-6/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-6.md" />}}

@@ -30,4 +30,4 @@ La seule chose qu’il n’avait pas prévue, c’est que ses parents, pour la p
 
 Certaines choses vous surprennent et d’autres pas. Et alors qu’il posait son regard sur ce qu’on appelait ici une sansouïre, une de ces steppes au sol salé, il se disait que même un pacte indestructible demande bien des efforts.
 
-{{< suite dst="/chapter/nils/chapitre-3/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-3.md" />}}

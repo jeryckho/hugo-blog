@@ -50,4 +50,4 @@ L’oncle avait raison. Enfin disons qu’il soulevait une question importante. 
 
 Nils n’était pas doué pour se garder des gens qu’il détestait…
 
-{{< suite dst="/chapter/nils/chapitre-12/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-12.md" />}}

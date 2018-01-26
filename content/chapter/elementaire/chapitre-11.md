@@ -216,4 +216,4 @@ La jeune femme accusa le coup. De quoi parlait-il ? Il avait manifestement un pr
 
 Lonie pleurait. Elle pleurait quelque part à Paris, dans une salle d’arcade. Le pod ne relayait pas cette information, ainsi son avatar restait stoïque. Elle comprenait pourquoi il avait choisi de la faire venir dans ce monde. Il aurait sans doute pu les téléporter directement dans cette salle, mais il lui avait fait faire la connaissance de cet univers étrange. Il avait voulu lui offrir une vue imprenable sur son âme.
 
-{{< suite dst="/chapter/elementaire/chapitre-12/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-12.md" />}}

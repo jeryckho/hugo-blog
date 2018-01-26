@@ -174,4 +174,4 @@ A voir le regard d’Amanda, c’était le genre de réponses qu’ils attendaie
 *- Mettons, mais il me faudrait l’accès à l’intégralité des données des tous les capteurs de chaque expérience. Ainsi que les programmes de StarLab.*  
 *- Vous les aurez. Chuck vous installera un réseau crypté à destination de notre data-center. La vraie question maintenant, c’est : avec ces éléments, êtes-vous capable de calculer le point d’origine du phénomène ?”*
 
-{{< suite dst="/chapter/elementaire/chapitre-4/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-4.md" />}}

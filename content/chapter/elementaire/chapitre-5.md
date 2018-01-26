@@ -103,4 +103,4 @@ Voilà, elle en avait localisé un. Et détail intéressant de l’histoire, l�
 *- Mais dans ce cas, qui est le méchant ?*  
 *- Ça, je peux pas vous le dire. Ça me désolerait d’avoir à vous tuer.”*
 
-{{< suite dst="/chapter/elementaire/chapitre-6/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-6.md" />}}

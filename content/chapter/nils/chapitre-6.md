@@ -54,4 +54,4 @@ Voilà, le sort en était jeté. La destinée d’un jeune homme venait de se jo
 
 La vie est un mystère, ou à tout le moins, une énigme. Parfois, sans raison, elle vous refuse les plaisirs qui font justement son charme. Au moins lui restait-il l’odeur du café.
 
-{{< suite dst="/chapter/nils/chapitre-7/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-7.md" />}}

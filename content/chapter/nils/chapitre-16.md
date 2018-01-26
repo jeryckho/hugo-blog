@@ -51,4 +51,4 @@ Il sentit sa main déposer un feuille de papier dans l’une de ses poches. Il e
 
 Nils revenait à son appartement, le pas lent et l’esprit chargé de rêves de revanche.
 
-{{< suite dst="/chapter/nils/chapitre-17/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-17.md" />}}

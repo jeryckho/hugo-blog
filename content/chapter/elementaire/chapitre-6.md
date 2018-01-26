@@ -80,4 +80,4 @@ Le jeune homme recula son fauteuil pour être bien vu de tous, s’assurant d’
 *- Mon bon Monsieur, apprenez que tout flatteur vit aux dépens de celui qui l’écoute ! Mais, sérieusement, pourquoi ce poème ?*  
 *- Parce que, comme Alice, nous passons de l’autre côté du miroir !”*
 
-{{< suite dst="/chapter/elementaire/chapitre-7/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-7.md" />}}

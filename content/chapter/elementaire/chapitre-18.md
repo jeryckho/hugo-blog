@@ -155,4 +155,4 @@ Lonie ne douta pas que l’analyse montrerait qu’il en allait de même pour le
 
 Un nouveau round commençait.
 
-{{< suite dst="/chapter/elementaire/chapitre-19/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-19.md" />}}

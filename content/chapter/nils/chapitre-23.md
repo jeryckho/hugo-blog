@@ -60,4 +60,4 @@ Nils avait un peu brodé en disant que Frantz et Grant voulait évincer le Patri
 
 Tout le monde jouait son rôle. Et avec les cartes qu’il avait distribuées, il espérait bien que Gérald jouerait le sien.
 
-{{< suite dst="/chapter/nils/chapitre-23/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-24.md" />}}

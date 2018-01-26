@@ -94,4 +94,4 @@ Forte du sentiment du travail bien fait, Zoé avait l’esprit plus léger. Main
 
 Confucius avait dit : “Choisissez un travail que vous aimez et vous n’aurez pas à travailler un seul jour de votre vie.” Zoé n’aurait pas pu être plus d’accord.
 
-{{< suite dst="/chapter/elementaire/chapitre-14/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-14.md" />}}

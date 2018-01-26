@@ -49,4 +49,4 @@ Il n’en parlait jamais en effet. Il pensait même que personne n’en savait r
 
 Et la vérité lui apparut clairement : certaines des toiles étaient des copies, et ils craignaient que quelqu’un le découvre. Ils l’avaient placé là pour observer…
 
-{{< suite dst="/chapter/nils/chapitre-15/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-15.md" />}}

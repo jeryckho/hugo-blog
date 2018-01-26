@@ -150,4 +150,4 @@ James la fit sortir tout en jetant un regard courroucé à Sifakis. Il la ramena
 
 Personne ne daigna répondre à sa question. Logique. Elle n’avait rien à attendre de leur part. Sifakis avait dit ‘souvenez-vous de Pi’. Pas ‘pensez à Pi’, ni ‘réfléchissez à Pi’. C’était un indice. Qui servait à quoi ? À comprendre le sens de l’autre phrase : ‘il a semé loin au Nord un arbre qui est la vie’. Elle n’était guère plus avancée, mais elle savait qu’il y avait quelque chose à creuser. Sifakis lui avait offert un lapin blanc. À elle de s’enfoncer dans le terrier.
 
-{{< suite dst="/chapter/elementaire/chapitre-13/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-13.md" />}}

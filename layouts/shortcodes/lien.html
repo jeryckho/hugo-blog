@@ -1,0 +1,7 @@
+<div style="text-align: {{ if .Get "pos" }}{{ .Get "pos" }}{{ else }}right{{ end }}">
+    {{ if .Get "lnk" }}
+        <a href="{{ .Get "lnk" | ref .Page }}">{{ if .Inner }}{{ .Inner }}{{ else }}La suite{{ end }}</a>
+    {{ else }}
+        {{ if .Inner }}{{ .Inner }}{{ else }}La suite{{ end }}
+    {{ end }}
+</div>

@@ -159,4 +159,4 @@ Ca ressemblait à… Elle ignorait à quoi. Mais on disait du portail des servic
 *- Je sens que je vais le regretter.*  
 *- Je prends ça pour un oui. Alors : direction la Théière !”*
 
-{{< suite dst="/chapter/elementaire/chapitre-3/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-3.md" />}}

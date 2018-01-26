@@ -47,4 +47,4 @@ Et puis Julia finit par les quitter. Et il se retrouva seul avec Eryn. Son coeur
 
 Le sage dit : il n’existe rien de constant si ce n’est le changement. Nils espérait qu’il n’y aurait pas trop de changements à venir…
 
-{{< suite dst="/chapter/nils/chapitre-21/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-21.md" />}}

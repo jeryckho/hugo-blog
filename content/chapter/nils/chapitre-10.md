@@ -45,4 +45,4 @@ Au matin, elle était parti. Elle et ses affaire en vrac sous le lit. Il ne trou
 
 Quand on se croit seul trop longtemps, même les vivants deviennent des fantômes.
 
-{{< suite dst="/chapter/nils/chapitre-11/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-11.md" />}}

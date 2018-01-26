@@ -30,4 +30,4 @@ Il était fier de lui, il ne souvenait pas d’avoir entendu de la part de son p
 
 La seule ombre au tableau, c’était Eryn. On ne pouvait être réellement doué avant que quelqu’un ne nous le fasse remarquer. Sans doute que personne ne lui avait jamais dit qu’il était doué avec elle.
 
-{{< suite dst="/chapter/nils/chapitre-5/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-5.md" />}}

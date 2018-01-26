@@ -45,4 +45,4 @@ Etaient-ils tous tombés sur la tête ? En dernier recours, il écrit à Eryn po
 
 Nils connaissait l’expression “souffler le chaud et le froid”. Mais quand la lettre lui revint en indiquant ‘Fausse Direction’, il se dit qu’il était en plein Blizzard.
 
-{{< suite dst="/chapter/nils/chapitre-8/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-8.md" />}}

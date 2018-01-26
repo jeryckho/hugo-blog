@@ -33,4 +33,4 @@ Sans le déménagement, il aurait utilisé son pécule pour retourner sur l’î
 
 Mais pas tout de suite, pas encore. Il avait d’abord une fête surprise à endurer, des tantes à embrasser, des études à poursuivre, des pays à visiter. Parfois, certaines déductions pouvaient prendre des années. Il était maintenant conscient qu’avant d’honorer son serment, il allait devoir forger sa personnalité propre.
 
-{{< suite dst="/chapter/nils/chapitre-4/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-4.md" />}}

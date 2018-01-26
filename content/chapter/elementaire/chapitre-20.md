@@ -116,4 +116,4 @@ Lonie sentait que la malade armait son coup. Cette fois, elle frapperait d’est
 
 Quelques huit cent mètres plus haut, les optiques haute-résolution d’une drone ne manquaient rien de la scène. Chaque pixel était relayé dans le bureau de la coordinatrice Racksyde.
 
-{{< suite dst="/chapter/elementaire/chapitre-21/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-21.md" />}}

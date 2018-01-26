@@ -46,4 +46,4 @@ C’est le moment qu’elle choisit pour poser ses lèvres sur les siennes.
 
 Nils ne croyait pas en la magie – queue de rat, aile de chauve-souris, bave de crapaud. Tout ça n’était rien d’autre que billevesées. Mais un serment échangé dans le sang, scellé par un baiser, sur une plage millénaire, sous le regard des étoiles, devant un feu de bois flotté… il savait que rien au monde n’avait la force de briser ce pacte-là.
 
-{{< suite dst="/chapter/nils/chapitre-2/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-2.md" />}}

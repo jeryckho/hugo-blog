@@ -52,4 +52,4 @@ Nils n’était pas sûr de vouloir entendre la suite… Il croyait savoir ce qu
 
 Sa cigarette était éteinte depuis longtemps, mais Nils avait toujours la tête qui lui tournait.
 
-{{< suite dst="/chapter/nils/chapitre-18/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-18.md" />}}

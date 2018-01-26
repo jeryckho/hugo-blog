@@ -42,4 +42,4 @@ La semaine suivante, quand il était arrivé, l’atelier était “fermé pour 
 
 Ce soir, l’équilibre de la terreur s’était brisé. Et il espérait bien être du bon côté quand les débris retomberaient.
 
-{{< suite dst="/chapter/nils/chapitre-16/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-16.md" />}}

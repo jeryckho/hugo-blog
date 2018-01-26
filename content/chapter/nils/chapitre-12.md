@@ -58,4 +58,4 @@ C’est l’homme de main qui le ramena jusqu’au poste de la Garde Suisse. Jus
 
 En prévision de cette rencontre, Nils avait doucement accumulé toute sa haine et sa rancoeur. D’un coup, ce maelström reprenait possession de lui.
 
-{{< suite dst="/chapter/nils/chapitre-13/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-13.md" />}}

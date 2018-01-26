@@ -75,4 +75,4 @@ Quand ils descendirent rejoindre le reste de la famille, il remarqua que Dalton 
   
 *“Alerte : détection particules mystérieuses. Hélonia Broch introuvable. Priorité absolue.”*
 
-{{< suite dst="/chapter/elementaire/chapitre-17/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-17.md" />}}

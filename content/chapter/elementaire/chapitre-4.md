@@ -97,4 +97,4 @@ Sabine fut la première à être vaincue par le sommeil. Elle glissa quelques mo
 
 Stan lui prit la main : *“- Toi, je sais quand quelque chose te reste sur le coeur. Tu veux en parler ?”*
 
-{{< suite dst="/chapter/elementaire/chapitre-5/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-5.md" />}}

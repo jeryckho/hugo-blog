@@ -54,4 +54,4 @@ Mais Julia avait une idée bien arrêtée sur ce qu’il fallait faire de tout c
 
 L’ignorance est une force, se disait Nils. Et particulièrement dans la Famille. Mais il n’aurait jamais imaginé qu’il soit si dur de rester dans l’ignorance.
 
-{{< suite dst="/chapter/nils/chapitre-22/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-22.md" />}}

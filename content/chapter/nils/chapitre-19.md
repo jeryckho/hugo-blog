@@ -38,4 +38,4 @@ Et puis il avait trouvé dans sa poche un petit mot tracé d’une écriture ner
 
 La solitude lui pesait plus que tout. Mais il se demanda si dans quelques semaines elle ne lui manquerait pas.
 
-{{< suite dst="/chapter/nils/chapitre-20/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-20.md" />}}

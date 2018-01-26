@@ -132,4 +132,4 @@ Amanda avait coupé la communication. Lonie sentait une colère sans nom. Pour A
   
 *“- Venez, Hélonia. Il faut qu’on parle.”*
 
-{{< suite dst="/chapter/elementaire/chapitre-16/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-16.md" />}}

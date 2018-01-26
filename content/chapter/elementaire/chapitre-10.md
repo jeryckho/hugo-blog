@@ -113,4 +113,4 @@ Un peu plus loin, Stan et Sabine étaient restés à leur table, mais les chaise
 
 Youri semblait songeur, peut-être un peu sur la défensive. Elle resserra son étreinte. Il pouvait se sentir décontenancé, mais il venait d’échapper à un réel interrogatoire. Et probablement aussi à la surveillance numérique d’Amanda et de toute son Unité. Tout ça grâce à la logique et au bon sens. Lonie se sentit plus légère. Quand le slow finit par s’arrêter, Youri lui proposa une graine de tournesol. Elle l’accepta comme on accepte un pacte.
 
-{{< suite dst="/chapter/elementaire/chapitre-11/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-11.md" />}}

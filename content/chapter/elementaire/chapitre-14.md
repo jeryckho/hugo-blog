@@ -252,4 +252,4 @@ Elle le serra dans ses bras, heureuse d’être en vie. Elle récupéra un tél�
 
 Tafat s’approchait en portant une feuille de papier. Celle qui avait été retenue par le poignard, comprit Lonie. Elle lut le message : *“Considérez cet Arbre, et demandez-vous ce que vous et vos amis avez fait de bien dans ce monde…”*
 
-{{< suite dst="/chapter/elementaire/chapitre-15/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-15.md" />}}

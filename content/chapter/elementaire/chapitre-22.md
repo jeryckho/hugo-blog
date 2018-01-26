@@ -114,4 +114,4 @@ Oui. Elle avait vu les Korvides. Chuck avaient dit que, par bien des égards, le
 
 Sentant un sueur froide lui couler le long de l’échine, Lonie pensa que si un jour elle avait l’occasion de revoir Sean Tippet, le laborantin, elle lui dirait qu’il avait vu juste. À ceci près qu’il n’y avait pas que les tribus amérindiennes qui hameçonnaient des esprits à des petits objets en os. En fin de compte, elle l’avait bien trouvé son mouchard ! 
 
-{{< suite dst="/chapter/elementaire/chapitre-23/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-23.md" />}}

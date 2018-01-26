@@ -82,4 +82,4 @@ Elle lui fit signe qu’elle s’en occupait. Pendant qu’il s’esquivait dans
 
 ![Train](/images/17-Train.png#center)
 
-{{< suite dst="/chapter/elementaire/chapitre-18/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-18.md" />}}

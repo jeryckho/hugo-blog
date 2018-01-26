@@ -96,3 +96,5 @@ A l’évocation de la jeune femme, Eryn vint se blottir dans ses bras. Cela fai
 Oui, il n’avait aucun doute sur la question : où qu’elle soit, elle aurait adoré ça.
 
 Il se demanda encore une fois si c’était le temps lui-même qui changeait les choses, ou alors si c’était juste les souvenirs. Lui, en tout cas, se souvenait d’une promesse qu’il avait faite sur une plage, il y a bien des années de cela. A bien y réfléchir, peut-être bien qu’il croyait à la magie.
+
+{{< lien >}}FIN{{</ lien >}}

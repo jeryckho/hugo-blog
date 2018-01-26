@@ -59,4 +59,4 @@ Eryn fit de son mieux pour le calmer. Et il lui fut incroyablement reconnaissant
 
 Le bonheur est un concept étrange, ni vraiment relatif, ni tout à fait absolu. Nils découvrait à quel point il était fragile.
 
-{{< suite dst="/chapter/nils/chapitre-23/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-23.md" />}}

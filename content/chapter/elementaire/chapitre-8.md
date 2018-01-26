@@ -113,4 +113,4 @@ Dmitry considéra cette idée avec sérieux. Il ne semblait pas tout à fait con
 Lonie ne put s’empêcher de sourire. Dmitry avait parfaitement raison, et elle décida qu’elle l’aimait bien, lui aussi.
 
 
-{{< suite dst="/chapter/elementaire/chapitre-9/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-9.md" />}}

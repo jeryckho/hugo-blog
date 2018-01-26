@@ -39,4 +39,4 @@ Autant dire à l’autre bout du monde, et qui plus est toujours en mouvement. I
 
 Depuis il était revenu à Milan, depuis son esprit était resté sur l’île, depuis son âme errait dans les limbes. A ce qu’on dit, si vous regardez trop longtemps dans l’abîme, à la fin l’abîme aussi regarde en vous.
 
-{{< suite dst="/chapter/nils/chapitre-10/" lib="La suite" >}}
+{{< lien lnk="chapter/nils/chapitre-10.md" />}}

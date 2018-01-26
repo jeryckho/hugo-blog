@@ -173,4 +173,4 @@ Elle avisa le résultat. Un des tirs avait atteint son but. Oui ! Le type saigna
 
 Et pourtant la boite crânienne explosa. Le type s’immobilisa, et comme l’un de ces immenses sapins sibériens, il finit par s’abattre sur le sol. Là-bas, loin derrière l’agent à terre, une puissante silhouette se tenait, en position de tir. Si elle n’avait pas été sur le point de s’évanouir, Lonie aurait juré qu’il s’agissait de Monsieur Pratney, frais, dispo et au mieux de sa forme.
 
-{{< suite dst="/chapter/elementaire/chapitre-8/" lib="La suite" >}}
+{{< lien lnk="chapter/elementaire/chapitre-8.md" />}}
